@@ -1,7 +1,7 @@
 package main
 
 import (
-	// "fmt"
+	_ "fmt"
 	"github.com/gorilla/websocket"
 	"log"
 	"net/http"
